@@ -13,7 +13,11 @@
 ---
 <br>
 
-<img src="https://raw.githubusercontent.com/LuanGSS/LuanGSS/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuanGSS/LuanGSS/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuanGSS/LuanGSS/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LuanGSS/LuanGSS/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 ---
@@ -67,9 +71,3 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LuanGSS.LuanGSS&left_color=darkviolet&right_color=orchid" width="80" />
-</div>
-
-<div align="center">
-  
